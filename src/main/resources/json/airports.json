@@ -1,0 +1,911 @@
+[
+  {
+    "name": "London Heathrow Airport",
+    "iata": "LHR",
+    "icao": "EGLL",
+    "lat": 51.471626,
+    "lon": -0.467081,
+    "country": "United Kingdom",
+    "alt": 83
+  },
+  {
+    "name": "Paris Charles de Gaulle Airport",
+    "iata": "CDG",
+    "icao": "LFPG",
+    "lat": 49.012516,
+    "lon": 2.555752,
+    "country": "France",
+    "alt": 392
+  },
+  {
+    "name": "Amsterdam Schiphol Airport",
+    "iata": "AMS",
+    "icao": "EHAM",
+    "lat": 52.308609,
+    "lon": 4.763889,
+    "country": "Netherlands",
+    "alt": 11
+  },
+  {
+    "name": "Frankfurt Airport",
+    "iata": "FRA",
+    "icao": "EDDF",
+    "lat": 50.037796,
+    "lon": 8.555783,
+    "country": "Germany",
+    "alt": 364
+  },
+  {
+    "name": "Istanbul Airport",
+    "iata": "IST",
+    "icao": "LTFM",
+    "lat": 41.267052,
+    "lon": 28.729757,
+    "country": "Turkey",
+    "alt": 325
+  },
+  {
+    "name": "Madrid Barajas Airport",
+    "iata": "MAD",
+    "icao": "LEMD",
+    "lat": 40.488701,
+    "lon": -3.57,
+    "country": "Spain",
+    "alt": 2000
+  },
+  {
+    "name": "Barcelona El Prat Airport",
+    "iata": "BCN",
+    "icao": "LEBL",
+    "lat": 41.29707,
+    "lon": 2.078463,
+    "country": "Spain",
+    "alt": 12
+  },
+  {
+    "name": "London Gatwick Airport",
+    "iata": "LGW",
+    "icao": "EGKK",
+    "lat": 51.148048,
+    "lon": -0.19027,
+    "country": "United Kingdom",
+    "alt": 202
+  },
+  {
+    "name": "Munich Airport",
+    "iata": "MUC",
+    "icao": "EDDM",
+    "lat": 48.353779,
+    "lon": 11.78608,
+    "country": "Germany",
+    "alt": 1487
+  },
+  {
+    "name": "Rome Leonardo da Vinci Fiumicino Airport",
+    "iata": "FCO",
+    "icao": "LIRF",
+    "lat": 41.80447,
+    "lon": 12.25079,
+    "country": "Italy",
+    "alt": 15
+  },
+  {
+    "name": "Moscow Sheremetyevo International Airport",
+    "iata": "SVO",
+    "icao": "UUEE",
+    "lat": 55.972641,
+    "lon": 37.414581,
+    "country": "Russia",
+    "alt": 622
+  },
+  {
+    "name": "Istanbul Sabiha Gokcen International Airport",
+    "iata": "SAW",
+    "icao": "LTFJ",
+    "lat": 40.898548,
+    "lon": 29.30921,
+    "country": "Turkey",
+    "alt": 312
+  },
+  {
+    "name": "Moscow Domodedovo International Airport",
+    "iata": "DME",
+    "icao": "UUDD",
+    "lat": 55.408779,
+    "lon": 37.906311,
+    "country": "Russia",
+    "alt": 588
+  },
+  {
+    "name": "Dublin Airport",
+    "iata": "DUB",
+    "icao": "EIDW",
+    "lat": 53.421379,
+    "lon": -6.27,
+    "country": "Ireland",
+    "alt": 242
+  },
+  {
+    "name": "Zurich Airport",
+    "iata": "ZRH",
+    "icao": "LSZH",
+    "lat": 47.464722,
+    "lon": 8.549167,
+    "country": "Switzerland",
+    "alt": 1416
+  },
+  {
+    "name": "Copenhagen Airport",
+    "iata": "CPH",
+    "icao": "EKCH",
+    "lat": 55.616959,
+    "lon": 12.645637,
+    "country": "Denmark",
+    "alt": 17
+  },
+  {
+    "name": "Palma de Mallorca Airport",
+    "iata": "PMI",
+    "icao": "LEPA",
+    "lat": 39.55167,
+    "lon": 2.738808,
+    "country": "Spain",
+    "alt": 27
+  },
+  {
+    "name": "Manchester Airport",
+    "iata": "MAN",
+    "icao": "EGCC",
+    "lat": 53.353741,
+    "lon": -2.27495,
+    "country": "United Kingdom",
+    "alt": 257
+  },
+  {
+    "name": "Oslo Gardermoen Airport",
+    "iata": "OSL",
+    "icao": "ENGM",
+    "lat": 60.193909,
+    "lon": 11.10036,
+    "country": "Norway",
+    "alt": 681
+  },
+  {
+    "name": "Lisbon Humberto Delgado Airport",
+    "iata": "LIS",
+    "icao": "LPPT",
+    "lat": 38.781311,
+    "lon": -9.13591,
+    "country": "Portugal",
+    "alt": 374
+  },
+  {
+    "name": "Stockholm Arlanda Airport",
+    "iata": "ARN",
+    "icao": "ESSA",
+    "lat": 59.653545,
+    "lon": 17.939816,
+    "country": "Sweden",
+    "alt": 137
+  },
+  {
+    "name": "Antalya Airport",
+    "iata": "AYT",
+    "icao": "LTAI",
+    "lat": 36.898731,
+    "lon": 30.800461,
+    "country": "Turkey",
+    "alt": 177
+  },
+  {
+    "name": "London Stansted Airport",
+    "iata": "STN",
+    "icao": "EGSS",
+    "lat": 51.884998,
+    "lon": 0.235,
+    "country": "United Kingdom",
+    "alt": 348
+  },
+  {
+    "name": "Brussels Airport",
+    "iata": "BRU",
+    "icao": "EBBR",
+    "lat": 50.901379,
+    "lon": 4.484444,
+    "country": "Belgium",
+    "alt": 184
+  },
+  {
+    "name": "Dusseldorf International Airport",
+    "iata": "DUS",
+    "icao": "EDDL",
+    "lat": 51.289452,
+    "lon": 6.766775,
+    "country": "Germany",
+    "alt": 147
+  },
+  {
+    "name": "Vienna International Airport",
+    "iata": "VIE",
+    "icao": "LOWW",
+    "lat": 48.110271,
+    "lon": 16.569719,
+    "country": "Austria",
+    "alt": 600
+  },
+  {
+    "name": "Milan Malpensa Airport",
+    "iata": "MXP",
+    "icao": "LIMC",
+    "lat": 45.6306,
+    "lon": 8.728111,
+    "country": "Italy",
+    "alt": 767
+  },
+  {
+    "name": "Athens Eleftherios Venizelos",
+    "iata": "ATH",
+    "icao": "LGAV",
+    "lat": 37.936352,
+    "lon": 23.94446,
+    "country": "Greece",
+    "alt": 308
+  },
+  {
+    "name": "Helsinki Vantaa Airport",
+    "iata": "HEL",
+    "icao": "EFHK",
+    "lat": 60.317219,
+    "lon": 24.963329,
+    "country": "Finland",
+    "alt": 179
+  },
+  {
+    "name": "Malaga Costa Del Sol Airport",
+    "iata": "AGP",
+    "icao": "LEMG",
+    "lat": 36.679169,
+    "lon": -4.501932,
+    "country": "Spain",
+    "alt": 29
+  },
+  {
+    "name": "Moscow Vnukovo International Airport",
+    "iata": "VKO",
+    "icao": "UUWW",
+    "lat": 55.59153,
+    "lon": 37.261478,
+    "country": "Russia",
+    "alt": 685
+  },
+  {
+    "name": "Hamburg Airport",
+    "iata": "HAM",
+    "icao": "EDDH",
+    "lat": 53.630379,
+    "lon": 9.988228,
+    "country": "Germany",
+    "alt": 53
+  },
+  {
+    "name": "Geneva International Airport",
+    "iata": "GVA",
+    "icao": "LSGG",
+    "lat": 46.23806,
+    "lon": 6.10895,
+    "country": "Switzerland",
+    "alt": 1411
+  },
+  {
+    "name": "St. Petersburg Pulkovo Airport",
+    "iata": "LED",
+    "icao": "ULLI",
+    "lat": 59.800289,
+    "lon": 30.262501,
+    "country": "Russia",
+    "alt": 78
+  },
+  {
+    "name": "Ankara Esenboga International Airport",
+    "iata": "ESB",
+    "icao": "LTAC",
+    "lat": 40.128078,
+    "lon": 32.995079,
+    "country": "Turkey",
+    "alt": 3125
+  },
+  {
+    "name": "London Luton Airport",
+    "iata": "LTN",
+    "icao": "EGGW",
+    "lat": 51.874722,
+    "lon": -0.36833,
+    "country": "United Kingdom",
+    "alt": 526
+  },
+  {
+    "name": "Warsaw Chopin Airport",
+    "iata": "WAW",
+    "icao": "EPWA",
+    "lat": 52.165749,
+    "lon": 20.967119,
+    "country": "Poland",
+    "alt": 362
+  },
+  {
+    "name": "Prague Vaclav Havel Airport",
+    "iata": "PRG",
+    "icao": "LKPR",
+    "lat": 50.10083,
+    "lon": 14.26,
+    "country": "Czechia",
+    "alt": 1247
+  },
+  {
+    "name": "Alicante Airport",
+    "iata": "ALC",
+    "icao": "LEAL",
+    "lat": 38.282162,
+    "lon": -0.55815,
+    "country": "Spain",
+    "alt": 142
+  },
+  {
+    "name": "Edinburgh Airport",
+    "iata": "EDI",
+    "icao": "EGPH",
+    "lat": 55.950001,
+    "lon": -3.3725,
+    "country": "United Kingdom",
+    "alt": 135
+  },
+  {
+    "name": "Nice Cote d'Azur Airport",
+    "iata": "NCE",
+    "icao": "LFMN",
+    "lat": 43.665272,
+    "lon": 7.215,
+    "country": "France",
+    "alt": 13
+  },
+  {
+    "name": "Budapest Ferenc Liszt International Airport",
+    "iata": "BUD",
+    "icao": "LHBP",
+    "lat": 47.436932,
+    "lon": 19.25559,
+    "country": "Hungary",
+    "alt": 495
+  },
+  {
+    "name": "Gran Canaria Airport",
+    "iata": "LPA",
+    "icao": "GCLP",
+    "lat": 27.931881,
+    "lon": -15.3865,
+    "country": "Spain",
+    "alt": 78
+  },
+  {
+    "name": "Birmingham Airport",
+    "iata": "BHX",
+    "icao": "EGBB",
+    "lat": 52.45385,
+    "lon": -1.74802,
+    "country": "United Kingdom",
+    "alt": 327
+  },
+  {
+    "name": "Izmir Adnan Menderes International Airport",
+    "iata": "ADB",
+    "icao": "LTBJ",
+    "lat": 38.292389,
+    "lon": 27.15695,
+    "country": "Turkey",
+    "alt": 412
+  },
+  {
+    "name": "Bucharest Henri Coanda International Airport",
+    "iata": "OTP",
+    "icao": "LROP",
+    "lat": 44.572159,
+    "lon": 26.102171,
+    "country": "Romania",
+    "alt": 314
+  },
+  {
+    "name": "Cologne Bonn Airport",
+    "iata": "CGN",
+    "icao": "EDDK",
+    "lat": 50.866001,
+    "lon": 7.143,
+    "country": "Germany",
+    "alt": 302
+  },
+  {
+    "name": "Berlin Brandenburg Airport",
+    "iata": "BER",
+    "icao": "EDDB",
+    "lat": 52.362877,
+    "lon": 13.503722,
+    "country": "Germany",
+    "alt": 157
+  },
+  {
+    "name": "Milan Bergamo Orio al Serio International Airport",
+    "iata": "BGY",
+    "icao": "LIME",
+    "lat": 45.668304,
+    "lon": 9.704209,
+    "country": "Italy",
+    "alt": 782
+  },
+  {
+    "name": "Tenerife South Airport",
+    "iata": "TFS",
+    "icao": "GCTS",
+    "lat": 28.04447,
+    "lon": -16.572399,
+    "country": "Spain",
+    "alt": 209
+  },
+  {
+    "name": "Stuttgart Airport",
+    "iata": "STR",
+    "icao": "EDDS",
+    "lat": 48.689869,
+    "lon": 9.221964,
+    "country": "Germany",
+    "alt": 1276
+  },
+  {
+    "name": "Porto Francisco de Sa Carneiro Airport",
+    "iata": "OPO",
+    "icao": "LPPR",
+    "lat": 41.248051,
+    "lon": -8.68138,
+    "country": "Portugal",
+    "alt": 228
+  },
+  {
+    "name": "Kyiv Boryspil International Airport",
+    "iata": "KBP",
+    "icao": "UKBB",
+    "lat": 50.345001,
+    "lon": 30.89472,
+    "country": "Ukraine",
+    "alt": 427
+  },
+  {
+    "name": "Venice Marco Polo Airport",
+    "iata": "VCE",
+    "icao": "LIPZ",
+    "lat": 45.505268,
+    "lon": 12.35194,
+    "country": "Italy",
+    "alt": 7
+  },
+  {
+    "name": "Lyon Saint Exupery Airport",
+    "iata": "LYS",
+    "icao": "LFLL",
+    "lat": 45.719643,
+    "lon": 5.089108,
+    "country": "France",
+    "alt": 821
+  },
+  {
+    "name": "Glasgow International Airport",
+    "iata": "GLA",
+    "icao": "EGPF",
+    "lat": 55.871941,
+    "lon": -4.43305,
+    "country": "United Kingdom",
+    "alt": 26
+  },
+  {
+    "name": "Milan Linate Airport",
+    "iata": "LIN",
+    "icao": "LIML",
+    "lat": 45.445099,
+    "lon": 9.276739,
+    "country": "Italy",
+    "alt": 353
+  },
+  {
+    "name": "Toulouse Blagnac Airport",
+    "iata": "TLS",
+    "icao": "LFBO",
+    "lat": 43.634998,
+    "lon": 1.367778,
+    "country": "France",
+    "alt": 499
+  },
+  {
+    "name": "Catania Fontanarossa Airport",
+    "iata": "CTA",
+    "icao": "LICC",
+    "lat": 37.466782,
+    "lon": 15.0664,
+    "country": "Italy",
+    "alt": 39
+  },
+  {
+    "name": "Marseille Provence Airport",
+    "iata": "MRS",
+    "icao": "LFML",
+    "lat": 43.436661,
+    "lon": 5.215,
+    "country": "France",
+    "alt": 74
+  },
+  {
+    "name": "Faro Airport",
+    "iata": "FAO",
+    "icao": "LPFR",
+    "lat": 37.01442,
+    "lon": -7.96591,
+    "country": "Portugal",
+    "alt": 24
+  },
+  {
+    "name": "Keflavik International Airport",
+    "iata": "KEF",
+    "icao": "BIKF",
+    "lat": 63.985001,
+    "lon": -22.605499,
+    "country": "Iceland",
+    "alt": 171
+  },
+  {
+    "name": "Bologna Guglielmo Marconi Airport",
+    "iata": "BLQ",
+    "icao": "LIPE",
+    "lat": 44.535439,
+    "lon": 11.28866,
+    "country": "Italy",
+    "alt": 123
+  },
+  {
+    "name": "Naples Airport",
+    "iata": "NAP",
+    "icao": "LIRN",
+    "lat": 40.886028,
+    "lon": 14.29078,
+    "country": "Italy",
+    "alt": 294
+  },
+  {
+    "name": "Bristol Airport",
+    "iata": "BRS",
+    "icao": "EGGD",
+    "lat": 51.38266,
+    "lon": -2.71908,
+    "country": "United Kingdom",
+    "alt": 622
+  },
+  {
+    "name": "Ibiza Airport",
+    "iata": "IBZ",
+    "icao": "LEIB",
+    "lat": 38.872849,
+    "lon": 1.373117,
+    "country": "Spain",
+    "alt": 20
+  },
+  {
+    "name": "Basel Mulhouse-Freiburg EuroAirport",
+    "iata": "BSL",
+    "icao": "LFSB",
+    "lat": 47.5989,
+    "lon": 7.5283,
+    "country": "France",
+    "alt": 885
+  },
+  {
+    "name": "Brussels South Charleroi Airport",
+    "iata": "CRL",
+    "icao": "EBCI",
+    "lat": 50.459999,
+    "lon": 4.452778,
+    "country": "Belgium",
+    "alt": 614
+  },
+  {
+    "name": "Heraklion International Airport",
+    "iata": "HER",
+    "icao": "LGIR",
+    "lat": 35.33971,
+    "lon": 25.18029,
+    "country": "Greece",
+    "alt": 115
+  },
+  {
+    "name": "Lanzarote Airport",
+    "iata": "ACE",
+    "icao": "GCRR",
+    "lat": 28.945459,
+    "lon": -13.6052,
+    "country": "Spain",
+    "alt": 47
+  },
+  {
+    "name": "Gothenburg Landvetter Airport",
+    "iata": "GOT",
+    "icao": "ESGG",
+    "lat": 57.66283,
+    "lon": 12.27981,
+    "country": "Sweden",
+    "alt": 506
+  },
+  {
+    "name": "Valencia Airport",
+    "iata": "VLC",
+    "icao": "LEVC",
+    "lat": 39.489311,
+    "lon": -0.48162,
+    "country": "Spain",
+    "alt": 225
+  },
+  {
+    "name": "Sofia Airport",
+    "iata": "SOF",
+    "icao": "LBSF",
+    "lat": 42.69519,
+    "lon": 23.40616,
+    "country": "Bulgaria",
+    "alt": 1742
+  },
+  {
+    "name": "Thessaloniki International Airport",
+    "iata": "SKG",
+    "icao": "LGTS",
+    "lat": 40.519718,
+    "lon": 22.970949,
+    "country": "Greece",
+    "alt": 22
+  },
+  {
+    "name": "Bordeaux Merignac Airport",
+    "iata": "BOD",
+    "icao": "LFBD",
+    "lat": 44.828609,
+    "lon": -0.71527,
+    "country": "France",
+    "alt": 166
+  },
+  {
+    "name": "Bergen Flesland Airport",
+    "iata": "BGO",
+    "icao": "ENBR",
+    "lat": 60.293381,
+    "lon": 5.218142,
+    "country": "Norway",
+    "alt": 170
+  },
+  {
+    "name": "Riga International Airport",
+    "iata": "RIX",
+    "icao": "EVRA",
+    "lat": 56.923611,
+    "lon": 23.971109,
+    "country": "Latvia",
+    "alt": 34
+  },
+  {
+    "name": "Fuerteventura Airport",
+    "iata": "FUE",
+    "icao": "GCFV",
+    "lat": 28.452709,
+    "lon": -13.8637,
+    "country": "Spain",
+    "alt": 83
+  },
+  {
+    "name": "Luqa Malta International Airport",
+    "iata": "MLA",
+    "icao": "LMML",
+    "lat": 35.857491,
+    "lon": 14.4775,
+    "country": "Malta",
+    "alt": 300
+  },
+  {
+    "name": "Rome Ciampino Airport",
+    "iata": "CIA",
+    "icao": "LIRA",
+    "lat": 41.799358,
+    "lon": 12.59493,
+    "country": "Italy",
+    "alt": 427
+  },
+  {
+    "name": "Hannover Langenhagen Airport",
+    "iata": "HAJ",
+    "icao": "EDDV",
+    "lat": 52.461048,
+    "lon": 9.685078,
+    "country": "Germany",
+    "alt": 183
+  },
+  {
+    "name": "Belfast International Airport",
+    "iata": "BFS",
+    "icao": "EGAA",
+    "lat": 54.657501,
+    "lon": -6.21583,
+    "country": "United Kingdom",
+    "alt": 268
+  },
+  {
+    "name": "Krakow John Paul II International Airport",
+    "iata": "KRK",
+    "icao": "EPKK",
+    "lat": 50.077728,
+    "lon": 19.78483,
+    "country": "Poland",
+    "alt": 791
+  },
+  {
+    "name": "Palermo Falcone-Borsellino Airport",
+    "iata": "PMO",
+    "icao": "LICJ",
+    "lat": 38.175949,
+    "lon": 13.09101,
+    "country": "Italy",
+    "alt": 65
+  },
+  {
+    "name": "Sochi International Airport",
+    "iata": "AER",
+    "icao": "URSS",
+    "lat": 43.449921,
+    "lon": 39.956581,
+    "country": "Russia",
+    "alt": 89
+  },
+  {
+    "name": "Eindhoven Airport",
+    "iata": "EIN",
+    "icao": "EHEH",
+    "lat": 51.45013,
+    "lon": 5.374528,
+    "country": "Netherlands",
+    "alt": 74
+  },
+  {
+    "name": "Adana Sakirpasa Airport",
+    "iata": "ADA",
+    "icao": "LTAF",
+    "lat": 36.982159,
+    "lon": 35.28038,
+    "country": "Turkey",
+    "alt": 65
+  },
+  {
+    "name": "Nantes Atlantique Airport",
+    "iata": "NTE",
+    "icao": "LFRS",
+    "lat": 47.15694,
+    "lon": -1.60777,
+    "country": "France",
+    "alt": 90
+  },
+  {
+    "name": "Newcastle Airport",
+    "iata": "NCL",
+    "icao": "EGNT",
+    "lat": 55.037498,
+    "lon": -1.69166,
+    "country": "United Kingdom",
+    "alt": 266
+  },
+  {
+    "name": "Belgrade Nikola Tesla Airport",
+    "iata": "BEG",
+    "icao": "LYBE",
+    "lat": 44.818439,
+    "lon": 20.30913,
+    "country": "Serbia",
+    "alt": 335
+  },
+  {
+    "name": "Rhodes International Airport",
+    "iata": "RHO",
+    "icao": "LGRP",
+    "lat": 36.405411,
+    "lon": 28.086189,
+    "country": "Greece",
+    "alt": 17
+  },
+  {
+    "name": "Pisa Galileo Galilei Airport",
+    "iata": "PSA",
+    "icao": "LIRP",
+    "lat": 43.68391,
+    "lon": 10.39275,
+    "country": "Italy",
+    "alt": 6
+  },
+  {
+    "name": "Simferopol International Airport",
+    "iata": "SIP",
+    "icao": "UKFF",
+    "lat": 45.052219,
+    "lon": 33.975128,
+    "country": "Ukraine",
+    "alt": 639
+  },
+  {
+    "name": "Seville San Pablo Airport",
+    "iata": "SVQ",
+    "icao": "LEZL",
+    "lat": 37.417999,
+    "lon": -5.8931,
+    "country": "Spain",
+    "alt": 111
+  },
+  {
+    "name": "Bilbao Airport",
+    "iata": "BIO",
+    "icao": "LEBB",
+    "lat": 43.30109,
+    "lon": -2.9106,
+    "country": "Spain",
+    "alt": 138
+  },
+  {
+    "name": "Liverpool John Lennon Airport",
+    "iata": "LPL",
+    "icao": "EGGP",
+    "lat": 53.333611,
+    "lon": -2.84972,
+    "country": "United Kingdom",
+    "alt": 80
+  },
+  {
+    "name": "East Midlands Airport",
+    "iata": "EMA",
+    "icao": "EGNX",
+    "lat": 52.831108,
+    "lon": -1.32805,
+    "country": "United Kingdom",
+    "alt": 306
+  },
+  {
+    "name": "Zagreb Franjo Tudman Airport",
+    "iata": "ZAG",
+    "icao": "LDZA",
+    "lat": 45.742931,
+    "lon": 16.068769,
+    "country": "Croatia",
+    "alt": 353
+  },
+  {
+    "name": "Sarajevo International Airport",
+    "iata": "SJJ",
+    "icao": "LQSA",
+    "lat": 43.824581,
+    "lon": 18.331461,
+    "country": "Bosnia And Herzegovina",
+    "alt": 1708
+  },
+  {
+    "name": "Tivat Airport",
+    "iata": "TIV",
+    "icao": "LYTV",
+    "lat": 42.404659,
+    "lon": 18.72328,
+    "country": "Montenegro",
+    "alt": 20
+  },
+  {
+    "name": "Ljubljana Joze Pucnik Airport",
+    "iata": "LJU",
+    "icao": "LJLJ",
+    "lat": 46.223679,
+    "lon": 14.45761,
+    "country": "Slovenia",
+    "alt": 1273
+  }
+]
