@@ -3,11 +3,16 @@ import com.example.demo.Model.FlightModel;
 import com.example.demo.Repository.MyRepository;
 import com.example.demo.Service.AirportService;
 import com.example.demo.Service.FlightService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
 
-@RestC
+@RestController
 @RequestMapping(path = "/flights")
 public class FlightController {
     @Autowired
@@ -24,7 +29,7 @@ public class FlightController {
 
     //Get endpoint for returning flights by flightId
     @GetMapping("/getFlightsId/{id_flight}" )
-    public ResponseEntity <List<FlightModel>> getFlightsId(@PathVariable(value = "id_flight" ) String id_flight) {
+    public ResponseEntity<List<FlightModel>> getFlightsId(@PathVariable(value = "id_flight" ) String id_flight) {
         return new ResponseEntity<>(flightService.getFlightsId(id_flight), HttpStatus.OK);
     }
 
